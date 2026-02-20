@@ -9,3 +9,10 @@ la température et l'humidité ambiante. C'est le grand frère du DHT11, offrant
 2- Une thermistance : Pour mesurer la température (souvent de type NTC).
 
 3- Un microcontrôleur 8 bits : Il convertit les signaux analogiques des deux capteurs en un signal numérique série.
+
+NB:
+
+-1: Télécharger le fichier word  "Liste des composants pour réaliser l'afficheur de temperature" pour avoir accès aux codes et connexions du projet
+
+-2: Vous retrouverez le code dans le fichier "Afficheur_de_temperature"
+
